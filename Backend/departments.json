@@ -1,0 +1,82 @@
+[
+  {
+    "departmentName": "Engineering",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Sales",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Marketing",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Finance",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Human Resources",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "IT",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Customer Support",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Research and Development",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Legal",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Quality Assurance",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Operations",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Product Management",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Purchasing",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Design",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Public Relations",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Sales Operations",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Training",
+    "location": "Headquarters"
+  },
+  {
+    "departmentName": "Warehouse",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Security",
+    "location": "Branch Office"
+  },
+  {
+    "departmentName": "Facilities",
+    "location": "Headquarters"
+  }
+]
